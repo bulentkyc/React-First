@@ -1,0 +1,11 @@
+.person{
+    border: 1px solid blue;
+    box-shadow: 0 3px 3px #00008B;
+    width:60%;
+    height: 150px;
+    background-color: whitesmoke;
+    text-align:center;
+    margin-left:20%;
+    margin-bottom: 20px; 
+    float:left;
+  }
