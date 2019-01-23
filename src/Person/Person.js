@@ -4,7 +4,7 @@ import './Person.css'
 const person = (props) => {
     return (
     <div className="person">
-        <p>I am a <span>{props.name}</span>! And I am 
+        <p onClick={props.click}>I am <span>{props.name}</span>! And I am 
         <span>{props.age}</span> years old!</p>
             
 
